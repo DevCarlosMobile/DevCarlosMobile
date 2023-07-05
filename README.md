@@ -2,7 +2,7 @@
 
 
 - 💻 Atualmente em treinamento para desenvolvimento mobile
-- 📚 Estudando Análise e Desenvolvimento de Sistemas (Unimetrocamp - Wyden)
+- 📚 Estudando Análise e Desenvolvimento de Sistemas
 - 📌 Campinas, SP, Brazil
 
 

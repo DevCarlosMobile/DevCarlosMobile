@@ -2,7 +2,6 @@
 
 - 💻 Mobile Developer
 - 📚 Estudando Análise e Desenvolvimento de Sistemas (Unimetrocamp - Wyden)
-- 📌 Campinas, SP, Brazil
 
 
 <div align="center">
